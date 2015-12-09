@@ -1,0 +1,12 @@
+#map-canvas { height: 220px;
+    width: 450px;
+    margin-left: 55px;
+    margin-bottom: 15px;
+    margin-top: 5px;
+    border: 2px;
+    border-color: #4D4D4D;
+    border-style: solid;
+   }
+.hidden {
+	display:none;
+}
